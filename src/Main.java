@@ -5,8 +5,9 @@ public class Main {
         Scanner sc = new Scanner(System.in);
         String respuesta;
 
+        System.out.println("---------------\nHola MICHAEL\n-------------");
         System.out.println("---------------\nCALCULADORA DE IMPUESTOS\n-------------");
-
+        System.out.println("---------------\nHola GENTEEEEEEEEE\n-------------");
 
         do{
             System.out.print("\nIngrese su salario anual: ");
