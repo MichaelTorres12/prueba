@@ -17,6 +17,11 @@ public class Main {
         System.out.println("---------------\nCuarto Main, nose\n-------------");
         System.out.println("---------------\nQuintooooooo\n-------------");
         System.out.println("---------------\nQuearteakjflkd\n-------------");
+        System.out.println("---------------\nCUARTOOOOOOOOOOOOOOOO CAMBIANDO MAIN\n-------------");
+        System.out.println("---------------\nQUINTOOOOOOOOOOOOOOOOOOOOOOO CAMBIANDO MAIN\n-------------");
+        System.out.println("---------------\n-----------------------------------------\n-------------");
+        System.out.println("---------------\nSEXTOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO\n-------------");
+        System.out.println("---------------\n-----------------------------------\n-------------");
 
         do{
             System.out.print("\nIngrese su salario anual: ");
