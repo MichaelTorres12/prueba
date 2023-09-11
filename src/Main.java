@@ -13,11 +13,8 @@ public class Main {
         System.out.println("---------------\nHola GENTEEEEEEEEE\n-------------");
         System.out.println("---------------\nQue ondas NEGRITO, que chivo está esto de github con el control de versiones del MAIN")
         System.out.println("---------------\nSegundoooooooooooooooooooooooooooooooooo NOse\n-------------");
-<<<<<<< HEAD
         System.out.println("---------------\nTercero Nose mi rama\n-------------");
-=======
         System.out.println("---------------\nCuarto Main, nose\n-------------");
->>>>>>> main
         System.out.println("---------------\nQuintooooooo\n-------------");
         System.out.println("---------------\nQuearteakjflkd\n-------------");
 
