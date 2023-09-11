@@ -9,6 +9,7 @@ public class Main {
         System.out.println("---------------\nCALCULADORA DE IMPUESTOS\n-------------");
         System.out.println("---------------\nHola GENTEEEEEEEEE\n-------------");
         System.out.println("---------------\nQue ondas NEGRITO, que chivo está esto de github con el control de versiones del MAIN")
+        System.out.println("---------------\nSegundoooooooooooooooooooooooooooooooooo NOse\n-------------");
 
         do{
             System.out.print("\nIngrese su salario anual: ");
