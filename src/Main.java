@@ -22,6 +22,8 @@ public class Main {
         System.out.println("---------------\n-----------------------------------------\n-------------");
         System.out.println("---------------\nSEXTOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO\n-------------");
         System.out.println("---------------\n-----------------------------------\n-------------");
+        System.out.println("---------------\nSEPTIMOOOOOOOOOOOOOOOO\n-------------");
+        System.out.println("---------------\nSEPTIMOOOOOOOOOOOOOOOO\n-------------");
 
         do{
             System.out.print("\nIngrese su salario anual: ");
