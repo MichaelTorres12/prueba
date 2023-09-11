@@ -5,27 +5,7 @@ public class Main {
         Scanner sc = new Scanner(System.in);
         String respuesta;
 
-        System.out.println("---------------\nHola MICHAEL\n-------------");
         System.out.println("---------------\nCALCULADORA DE IMPUESTOS\n-------------");
-
-        System.out.println("---------------\nHola GENTEEEEEEEE\n------");
-
-        System.out.println("---------------\nHola GENTEEEEEEEEE\n-------------");
-        System.out.println("---------------\nQue ondas NEGRITO, que chivo está esto de github con el control de versiones del MAIN")
-        System.out.println("---------------\nSegundoooooooooooooooooooooooooooooooooo NOse\n-------------");
-        System.out.println("---------------\nTercero Nose mi rama\n-------------");
-        System.out.println("---------------\nCuarto Main, nose\n-------------");
-        System.out.println("---------------\nQuintooooooo\n-------------");
-        System.out.println("---------------\nQuearteakjflkd\n-------------");
-        System.out.println("---------------\nCUARTOOOOOOOOOOOOOOOO CAMBIANDO MAIN\n-------------");
-        System.out.println("---------------\nQUINTOOOOOOOOOOOOOOOOOOOOOOO CAMBIANDO MAIN\n-------------");
-        System.out.println("---------------\n-----------------------------------------\n-------------");
-        System.out.println("---------------\nSEXTOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO\n-------------");
-        System.out.println("---------------\n-----------------------------------\n-------------");
-        System.out.println("---------------\nSEPTIMOOOOOOOOOOOOOOOO\n-------------");
-        System.out.println("---------------\nSEPTIMOOOOOOOOOOOOOOOO\n-------------");
-
-        System.out.println("---------------\nULTIMO CAMBIO; FINAL\n-------------");
 
         do{
             System.out.print("\nIngrese su salario anual: ");
