@@ -14,6 +14,8 @@ public class Main {
         System.out.println("---------------\nQue ondas NEGRITO, que chivo está esto de github con el control de versiones del MAIN")
         System.out.println("---------------\nSegundoooooooooooooooooooooooooooooooooo NOse\n-------------");
         System.out.println("---------------\nTercero Nose mi rama\n-------------");
+        System.out.println("---------------\nCUARTOOOOOOOOOOOOOOOO CAMBIANDO MAIN\n-------------");
+
 
         do{
             System.out.print("\nIngrese su salario anual: ");
