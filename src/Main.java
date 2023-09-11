@@ -7,14 +7,14 @@ public class Main {
 
         System.out.println("---------------\nHola MICHAEL\n-------------");
         System.out.println("---------------\nCALCULADORA DE IMPUESTOS\n-------------");
-<<<<<<< HEAD
+
         System.out.println("---------------\nHola GENTEEEEEEEE\n------");
-=======
+
         System.out.println("---------------\nHola GENTEEEEEEEEE\n-------------");
         System.out.println("---------------\nQue ondas NEGRITO, que chivo está esto de github con el control de versiones del MAIN")
         System.out.println("---------------\nSegundoooooooooooooooooooooooooooooooooo NOse\n-------------");
+        System.out.println("---------------\nTercero Nose mi rama\n-------------");
 
->>>>>>> b39f6af0ea1f82c3c601211651fa2196ea969113
         do{
             System.out.print("\nIngrese su salario anual: ");
             Double salario = sc.nextDouble();
